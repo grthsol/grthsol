@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @grthsol
+- 👀 I’m interested in FE and web3
+- 🌱 I’m currently learning solana smart contracts using rust
+- 💞️ I’m looking to collaborate on solana projects that need FE support
+- 📫 Reach me on twitter @grth666
